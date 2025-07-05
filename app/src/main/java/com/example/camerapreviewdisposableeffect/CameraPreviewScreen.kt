@@ -52,7 +52,7 @@ fun CameraPreviewScreen() {
                 ) {
                     Text(
                         text = "カメラは停止中です",
-                        color = Color.White,
+                        color = Color.Black,
                         fontSize = 20.sp,
                         fontWeight = FontWeight.Bold
                     )
